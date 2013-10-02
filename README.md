@@ -1,3 +1,8 @@
+
+In production at http://diareddit.herokuapp.com
+
+-------------------------------------------------------
+
 the Diabetes Mapping Project
 
 The aim of this application is to allow users to signup and post anonymyzed versions of their diabetes treatment management logs.  These logs can be uploaded and attached to their account to be compiled over time, focusing on five major variables, in order of importance to the project:
