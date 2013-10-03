@@ -28,8 +28,15 @@ The application will include:
 -------------------------------------------------------
 
 TODO:
+<<<<<<< HEAD
 *nav: home, about, post, datafeed, contact (application line 63)
 *continue on index feature 2 line 82
+=======
+*nav: home, about, post (action), datafeed, contact (application line 63)
+*continue on index feature 2 line 82
+* g controllers for post (action), datafeed, and contact
+
+>>>>>>> master
 
 
 
