@@ -28,9 +28,10 @@ The application will include:
 -------------------------------------------------------
 
 TODO:
-*nav: home, about, post, datafeed, contact (index line 63)
-*index info to application.html.erb
-*feature 2 line 164
+*nav: home, about, post, datafeed, contact (application line 63)
+*continue on index feature 2 line 82
+* g controllers for post, datafeed, and contact
+
 
 
 
