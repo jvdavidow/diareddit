@@ -30,7 +30,7 @@ The application will include:
 TODO:
 *nav: home, about, post, datafeed, contact (index line 63)
 *index info to application.html.erb
-*feature 2 line 164
+*feature 2 line 82
 
 
 
