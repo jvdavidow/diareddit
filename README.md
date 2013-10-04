@@ -15,20 +15,23 @@ This application allows users to signup and post anonymyzed versions of their di
 
 A feature of the application will additionally allow anonymized users to interact with other users, seeking qualitative posts about their experience managing their treatment.
 
-Optional user stats will be requested but not required, including, but not limited to, age, gender, age at diagnosis, history of treatment, co-morbidities, what meds they are prescribed, any technologies or therapeutics used, and their general regemin as prescribed by their care provider.
+Optional user stats will be requested but not required, including, but not limited to, age, gender, zipcode, linked anonymous accounts (e.g., reddit), age at diagnosis, history of treatment, co-morbidities, what meds they are prescribed, any technologies or therapeutics used, and their general regemin as prescribed by their care provider.
 
 The application will include:
 
-* a signup page
-* an upload page
+* a signup/about page
 * a profile page
+* an upload posts page
 * a community forum (including a best of challenge)
-* an about/contact page
+* a contact page
+
+The about is simple, should be very clear and direct: create an ANONYMOUS profile, donate data by uploading photos (img uploader) or just posting your numbers (text), and play around by commenting or upvoting.
+
 
 -------------------------------------------------------
 
 TODO:
-*nav: home, about, post (action), datafeed, contact (application line 63)
+*nav: home, profile, post (action), datafeed, contact (application line 63)
 *continue on index feature 2 line 82
 * g controllers for post (action), datafeed, and contact
 
